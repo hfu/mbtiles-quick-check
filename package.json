@@ -1,0 +1,25 @@
+{
+  "name": "mbtiles-quick-check",
+  "version": "1.0.0",
+  "description": "Quick-check the maximum and average size of vector tiles in mbtiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/mbtiles-quick-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/mbtiles-quick-check/issues"
+  },
+  "homepage": "https://github.com/hfu/mbtiles-quick-check#readme",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "chalk": "^2.4.2",
+    "prettysize": "^2.0.0"
+  }
+}
